@@ -1,4 +1,4 @@
-![alt text](crono_logo_2020.svg "")
+![alt text](profile/crono_logo_2020.svg "")
 
 ## Welcome to the public GitHub space of [cronologic](https://www.cronologic.de "Come visit us!")
 
