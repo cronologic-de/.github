@@ -1,5 +1,4 @@
-
-![alt text](https://global-uploads.webflow.com/5f7305747a02a6141386518c/5f7318c7d655fd268d918612_cronologic_logo_2020.svg "Logo Title Text 1")
+![alt text](crono_logo_2020.svg "")
 
 ## Welcome to the public GitHub space of [cronologic](https://www.cronologic.de "Come visit us!")
 
