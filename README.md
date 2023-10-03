@@ -2,5 +2,5 @@
 
 ## Welcome to the public GitHub space of [cronologic](https://www.cronologic.de "Come visit us!")
 
-[cronologic](https://www.cronologic.de "Yeah, visit us, don't be shy!") builts state-of-the-art [time-to-digital converters (TDCs)](https://en.wikipedia.org/wiki/Time-to-digital_converter "Visit Wikipedia!") and high-speed [analog-to-digital converters (ADCs)](https://en.wikipedia.org/wiki/Analog-to-digital_converter "Visit Wikipedia!"). We are based in beautiful Frankfurt/Germany and have our roots in an academic environment and in basic research/fundamental sciences. 
+[cronologic](https://www.cronologic.de "Yeah, visit us, don't be shy!") builds state-of-the-art [time-to-digital converters (TDCs)](https://en.wikipedia.org/wiki/Time-to-digital_converter "Visit Wikipedia!") and high-speed [analog-to-digital converters (ADCs)](https://en.wikipedia.org/wiki/Analog-to-digital_converter "Visit Wikipedia!"). We are based in beautiful Frankfurt/Germany and have our roots in an academic environment and in basic research/fundamental sciences. 
 
